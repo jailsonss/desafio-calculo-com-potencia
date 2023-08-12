@@ -1,4 +1,4 @@
-# desafio-calculo-com-potencia
+# Desafio: Cálculo com Potência
 
 Repositório referente ao desafio "Cálculo com Potência", da Formação Ruby Developer.
 
